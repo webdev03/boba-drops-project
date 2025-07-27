@@ -1,0 +1,27 @@
+/* I like this font a lot, check devarsh.me it also uses Atkinson Hyperlegible */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
+:root {
+    font-family: "Atkinson Hyperlegible Next", system-ui;
+}
+
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.w-200px {
+    width: 200px;
+
+}
